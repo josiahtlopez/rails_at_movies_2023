@@ -4,7 +4,7 @@ class CreateMovies < ActiveRecord::Migration[7.0]
       t.string :title
       t.integer :year
       t.integer :duration
-      t.text :desription
+      t.text :description
       t.decimal :average_vote
       t.references :production_company, null: false, foreign_key: true
 

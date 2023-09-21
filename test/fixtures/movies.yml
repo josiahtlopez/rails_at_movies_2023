@@ -4,7 +4,7 @@ one:
   title: MyString
   year: 1
   duration: 1
-  desription: MyText
+  description: MyText
   average_vote: 9.99
   production_company: one
 
@@ -12,6 +12,6 @@ two:
   title: MyString
   year: 1
   duration: 1
-  desription: MyText
+  description: MyText
   average_vote: 9.99
   production_company: two

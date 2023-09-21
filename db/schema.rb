@@ -15,7 +15,7 @@ ActiveRecord::Schema[7.0].define(version: 2023_09_21_013138) do
     t.string "title"
     t.integer "year"
     t.integer "duration"
-    t.text "desription"
+    t.text "description"
     t.decimal "average_vote"
     t.integer "production_company_id", null: false
     t.datetime "created_at", null: false
